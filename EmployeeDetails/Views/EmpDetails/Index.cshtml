@@ -1,0 +1,72 @@
+﻿@model IEnumerable<EmpDetails>
+@{
+    ViewData["Title"] = "Emplyees Detail";
+}
+
+<h1>Employees Detail</h1>
+<table class="table table-boardered border table- d" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Employee Id
+            </th>
+            <th>
+                Full Name
+            </th>
+            <th>
+                Gender
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Date-Of-Joining
+            </th>
+            <th>
+                Department
+            </th>
+            <th>
+                Location
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td width="5%">
+                    @obj.Id
+                </td>
+                <td width="15%">
+                    @obj.FullName
+                </td>
+                <td>
+                    @obj.Gender
+                </td>
+                <td width="20%">
+                    @obj.Email
+                </td>
+                <td width="15%">
+                    @obj.DateOfJoining
+                </td>
+                <td width="15%">
+                    @obj.Department
+                </td>
+                <td width="15%">
+                    @obj.Location
+                </td>
+                <td>
+                    <div role="group">
+                        <button>
+                            <a asp-controller="EmpDetails" asp-action="Edit" asp-route-id="@obj.Id" style="text-decoration:none" >
+                            Edit
+                        </a>
+                        </button>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

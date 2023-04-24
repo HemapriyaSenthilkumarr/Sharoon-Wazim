@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeDetails
+build_property.RootNamespace = EmployeeDetails
+build_property.ProjectDir = D:\ASPnet\EmployeeDetails\EmployeeDetails\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ASPnet\EmployeeDetails\EmployeeDetails
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-6w05uabd2i
+
+[D:/ASPnet/EmployeeDetails/EmployeeDetails/Views/EmpDetails/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wRGV0YWlsc1xfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-oj1sly2c3q
